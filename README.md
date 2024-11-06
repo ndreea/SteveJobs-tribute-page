@@ -5,8 +5,7 @@ Este repositorio contiene una página de tributo al CEO original de Apple Steve 
 La página permite a los usuarios conocer un poco más sobre la vida de Steve Jobs. La interfaz se ha diseñado de manera sencilla y minimalista.
 
 ## Tecnologías utilizadas
-HTML: para la estructura de la página.
-CSS: para el estilo y diseño visua de la página.
+HTML: para la estructura de la página. | CSS: para el estilo y diseño visual de la página.
 
 ## Propósito
 Este proyecto tiene como objetivo practicar y demostrar habilidades en HTML y CSS adquiridas en el curso.
