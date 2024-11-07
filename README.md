@@ -14,4 +14,4 @@ Este proyecto tiene como objetivo practicar y demostrar habilidades en HTML y CS
 Diseño responsivo: optimizar la página para dispositivos móviles y diferentes tamaños de pantalla.
 
 ## Licencia
-El tema y el diseño de este proyecto pertenece a la plataforma de FreeCodeCamp y los textos que aparecen en la página están seleccionados de otra página de tributo a Steve Jobs.
+El tema y el diseño de este proyecto pertenece a la plataforma de freeCodeCamp y los textos que aparecen en la página están seleccionados de otra página de tributo a Steve Jobs. No se permite la comercialización de los archivos. Se han usado los textos solamente para la finalidad del proyecto.
